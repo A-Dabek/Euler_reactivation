@@ -1,7 +1,7 @@
 import importlib
 import resource
 
-NO_OF_PROBLEMS = 610
+NO_OF_PROBLEMS = 607
 
 
 def get_solution_of(number, *args):
@@ -18,5 +18,5 @@ def get_solution_of(number, *args):
 
 
 if __name__ == '__main__':
-    problem = 549
+    problem = 407
     print(get_solution_of(problem))

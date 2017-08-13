@@ -12,7 +12,6 @@ def get_problem_info(number):
     d = txt[s:e]
     d = d.rstrip()
     return d
-    pass
 
 
 def get_primes(upper_limit):
